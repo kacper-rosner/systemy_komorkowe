@@ -1,0 +1,27 @@
+Traffic Loading Report
+----------------------
+
+Traffic source: Traffic from traffic database                     
+
+Circuit-switched blocking probability:   1.00%
+
+Circuit-switched average call duration:   1.76 minutes
+
+Percent of total traffic carried by group: 100.00 %
+
+          Circuit Traffic  Circuit Traffic   Number of    Channel  Current Blocking Packet Traffic
+Sector ID   (mErlangs)    Required Channels Channels Set Shortfall Probability (%)  (average mbps)
+--------- --------------- ----------------- ------------ --------- ---------------- --------------
+M101          9995.83             19             24          -5          0.01          9.9958
+M102         33482.23             49             48           1          0.00         33.4822
+M103         22244.53             35             32           3          3.50         22.2445
+M104         30911.66             46             48          -2          0.00         30.9117
+M105         28634.70             43             40           3          0.00         28.6347
+M201         32993.43             48             48           0          0.00         32.9934
+M202          9461.75             18             24          -6          0.01          9.4617
+M203         14531.60             25             32          -7          0.01         14.5316
+M301         18764.61             31             32          -1          0.36         18.7646
+M302         10064.77             19             24          -5          0.01         10.0648
+M401          9857.80             19             24          -5          0.01          9.8578
+M402          7955.81             16             16           0          0.86          7.9558
+M403         28997.40             43             48          -5          0.00         28.9974

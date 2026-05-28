@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<LocationList>
+ <Loc type="Unknown" name="Initial" Lat="44.56329046792713" Long="-122.6443350464507"/>
+ <TxList>
+  <Loc type="tx" name="ABAA" Lat="44.61970782228006" Long="-123.0395133321417"/>
+  <Loc type="tx" name="ABAB" Lat="44.6210664959399" Long="-123.1268458018315"/>
+  <Loc type="tx" name="ABAD" Lat="44.80363094893533" Long="-122.8193313008108"/>
+  <Loc type="tx" name="ABAE" Lat="44.83245781612676" Long="-122.9111767854076"/>
+  <Loc type="tx" name="ABAG" Lat="44.70394739251703" Long="-122.8625415442331"/>
+  <Loc type="tx" name="ABAH" Lat="44.64801577874366" Long="-123.0495593794821"/>
+  <Loc type="tx" name="ABAI" Lat="44.46913644389683" Long="-123.0224322307795"/>
+  <Loc type="tx" name="ABAJ" Lat="44.48759560751109" Long="-122.7867060120302"/>
+  <Loc type="tx" name="ABAK" Lat="44.61257872244365" Long="-122.7758689340769"/>
+  <Loc type="tx" name="ABAL" Lat="44.7412184503181" Long="-122.8003683566114"/>
+  <Loc type="tx" name="ABAM" Lat="44.77199981362015" Long="-123.0291897319654"/>
+  <Loc type="tx" name="ABAN" Lat="44.76044041998836" Long="-122.8752023231042"/>
+  <Loc type="tx" name="ABAO" Lat="44.70758609440134" Long="-123.2257942839805"/>
+  <Loc type="tx" name="ABAP" Lat="44.54555558470729" Long="-123.1674833933309"/>
+  <Loc type="tx" name="ABAQ" Lat="44.8487934800162" Long="-123.0674325481189"/>
+  <Loc type="tx" name="ABAR" Lat="44.71955002243471" Long="-122.6667465456889"/>
+  <Loc type="tx" name="ABAS" Lat="44.79477141500541" Long="-122.6642194914099"/>
+  <Loc type="tx" name="ABAT" Lat="44.8640519572564" Long="-122.6018717097883"/>
+  <Loc type="tx" name="ABAU" Lat="44.56329046792713" Long="-122.6443350464507"/>
+  <Loc type="tx" name="ABAV" Lat="44.47165069589456" Long="-122.6219511435796"/>
+  <Loc type="tx" name="ABAW" Lat="44.65330245492758" Long="-123.2074161956461"/>
+  <Loc type="tx" name="ABAX" Lat="44.44495326368025" Long="-122.9150093024975"/>
+  <Loc type="tx" name="ABAY" Lat="44.6673562990987" Long="-122.8846387791083"/>
+  <Loc type="tx" name="ABAZ" Lat="44.65054381838897" Long="-122.61229171512"/>
+  <Loc type="tx" name="ABBA" Lat="44.84127445997719" Long="-122.7220113160177"/>
+  <Loc type="tx" name="ABBB" Lat="44.77824327113843" Long="-123.1982232604571"/>
+  <Loc type="tx" name="ABBC" Lat="44.71499176228141" Long="-123.0515121782266"/>
+  <Loc type="tx" name="FC0101" Lat="44.85112934489507" Long="-123.2110421537371"/>
+ </TxList>
+ <LinkInfoList/>
+ <CPEList/>
+</LocationList>
