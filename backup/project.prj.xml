@@ -199,7 +199,30 @@
    <ColorMapEntry val="0.4402" r="179" g="75" b="225" symbol="SOLID"/>
    <ColorMapEntry val="0.4" r="176" g="67" b="236" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="0"/>
+  <ColorMap size="22">
+   <ColorMapEntry val="0.344" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="0.3276" r="251" g="246" b="11" symbol="SOLID"/>
+   <ColorMapEntry val="0.3112" r="247" g="237" b="22" symbol="SOLID"/>
+   <ColorMapEntry val="0.2949" r="243" g="228" b="34" symbol="SOLID"/>
+   <ColorMapEntry val="0.2785" r="239" g="219" b="45" symbol="SOLID"/>
+   <ColorMapEntry val="0.2621000000000001" r="236" g="210" b="56" symbol="SOLID"/>
+   <ColorMapEntry val="0.2457" r="232" g="201" b="67" symbol="SOLID"/>
+   <ColorMapEntry val="0.2293" r="228" g="192" b="79" symbol="SOLID"/>
+   <ColorMapEntry val="0.213" r="224" g="183" b="90" symbol="SOLID"/>
+   <ColorMapEntry val="0.1966" r="221" g="174" b="101" symbol="SOLID"/>
+   <ColorMapEntry val="0.1802" r="217" g="165" b="112" symbol="SOLID"/>
+   <ColorMapEntry val="0.1638" r="213" g="156" b="124" symbol="SOLID"/>
+   <ColorMapEntry val="0.1474" r="209" g="147" b="135" symbol="SOLID"/>
+   <ColorMapEntry val="0.131" r="206" g="138" b="146" symbol="SOLID"/>
+   <ColorMapEntry val="0.1147" r="202" g="129" b="157" symbol="SOLID"/>
+   <ColorMapEntry val="0.0983" r="198" g="120" b="169" symbol="SOLID"/>
+   <ColorMapEntry val="0.0819" r="194" g="111" b="180" symbol="SOLID"/>
+   <ColorMapEntry val="0.0655" r="191" g="102" b="191" symbol="SOLID"/>
+   <ColorMapEntry val="0.04910000000000001" r="187" g="93" b="202" symbol="SOLID"/>
+   <ColorMapEntry val="0.0328" r="183" g="84" b="214" symbol="SOLID"/>
+   <ColorMapEntry val="0.0164" r="179" g="75" b="225" symbol="SOLID"/>
+   <ColorMapEntry val="0.0" r="176" g="67" b="236" symbol="SOLID"/>
+  </ColorMap>
  </ColorMapVector>
  <ATAInfoVector size="1">
   <ATA owner="" owner_type="0" id="0" ata_type="-1" use_connected_CPEs="false" use_CPE_group="false" use_victim_CPEs="false" use_connected_mobiles="false" use_victim_sectors="false" use_sector_group="false" use_external="false" auto_calculate_targets="true" cpe_group="Master Group" sector_group="Master Group" cpe_threshold="0.0" sector_threshold="0.0">
