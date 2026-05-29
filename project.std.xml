@@ -2228,7 +2228,7 @@
    <TX_ID id="ABAA0001" active="true"/>
    <TX_ID id="ABAB0001" active="true"/>
    <TX_ID id="ABAC0001" active="true"/>
-   <TX_ID id="ABAD0002" active="true"/>
+   <TX_ID id="ABAD0002" active="false"/>
    <TX_ID id="ABAE0001" active="true"/>
    <TX_ID id="ABAE0002" active="true"/>
    <TX_ID id="ABAE0003" active="true"/>
@@ -2264,7 +2264,7 @@
    <TX_ID id="W203" active="true"/>
   </TxGroup>
   <TxGroup name="W901" guid="1598fcd0-37bb-4370-8cd6-e09b40c810c8" description="All sites and sectors" receiver_locked="false" number="1">
-   <TX_ID id="ABAD0002" active="true"/>
+   <TX_ID id="ABAD0002" active="false"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
