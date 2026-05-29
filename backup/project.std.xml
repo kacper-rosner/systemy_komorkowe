@@ -2224,7 +2224,9 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="2">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="15">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="17">
+   <TX_ID id="ABAA0001" active="true"/>
+   <TX_ID id="ABAA0002" active="true"/>
    <TX_ID id="M101" active="true"/>
    <TX_ID id="M102" active="true"/>
    <TX_ID id="M103" active="true"/>

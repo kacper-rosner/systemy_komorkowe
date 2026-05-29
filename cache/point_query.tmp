@@ -1,10 +1,10 @@
 Point Query
 -----------
 
-Latitude:    44 30 35.84 North      44.509957
-Longitude:  123 12 58.65 West     -123.216293
+Latitude:    44 33 56.02 North      44.565560
+Longitude:  122 58 40.55 West     -122.977932
 
-Terrain elevation:    67.7 meters
+Terrain elevation:    91.0 meters
 Terrain database type index:  6
 
 Land use (clutter) type number:  17
@@ -16,29 +16,29 @@ Raw signal data for 'Worst channel C/(I+N) for multiple-channel systems'
 
  Sector   Downlink Power  Uplink Power    Distance    Bearing     Transit time  Transit+TX_offset
 --------  --------------  ------------  ----------  ------------  ------------  -----------------
-W101       -114.6 dBmW    -115.6 dBmW     16.0 km     106.7 deg       52.7 uS       52.7 uS
-M103       -118.8 dBmW    -117.8 dBmW     22.4 km      44.8 deg       73.9 uS       73.9 uS
-M101       -135.1 dBmW    -129.9 dBmW     17.4 km      24.5 deg       57.4 uS       57.4 uS
-M105       -135.8 dBmW    -137.8 dBmW     14.7 km      50.9 deg       48.6 uS       48.6 uS
-W102       -139.0 dBmW    -138.1 dBmW     16.0 km     106.7 deg       52.7 uS       52.7 uS
-M104       -140.7 dBmW    -141.7 dBmW     19.2 km      48.0 deg       63.4 uS       63.4 uS
+M202        -99.6 dBmW    -101.7 dBmW      1.3 km     174.9 deg        4.4 uS        4.4 uS
+W102       -104.9 dBmW    -104.0 dBmW     11.3 km     198.3 deg       37.3 uS       37.3 uS
+ABAA0001   -106.8 dBmW    -103.5 dBmW     16.4 km     153.3 deg       54.3 uS       54.3 uS
+M103       -106.9 dBmW    -104.9 dBmW     10.2 km     342.5 deg       33.6 uS       33.6 uS
+M203       -107.9 dBmW    -109.2 dBmW      5.8 km      80.1 deg       19.2 uS       19.2 uS
+M102       -113.2 dBmW    -115.3 dBmW     12.7 km     323.1 deg       41.9 uS       41.9 uS
 Shadowed: No 
 Minimum RMS delay spread:             0.0 nSec
-Minimum pathloss:                   149.8 dB
-Maximum field strength at remote:    25.3 dBuV/m
-Maximum field strength at base:      17.1 dBuV/m
-Power flux density:                -119.0 dBW/m2
+Minimum pathloss:                   112.7 dB
+Maximum field strength at remote:    40.3 dBuV/m
+Maximum field strength at base:      54.1 dBuV/m
+Power flux density:                -102.4 dBW/m2
 
-Raw signal study grid array coordinates (x,y):  -475 -306
+Raw signal study grid array coordinates (x,y):   -97 -183
 
 --- mxx_file: view.0.1.mxx  
-Received power at best base from remote:  No value*        - server = W101    
+Received power at best base from remote:  -100.6   dBmW - server = M202    
 
 --- mxx_file: view.0.2.mxx  
-Strongest (most likely) Server:  No value*        - server = W101    
+Strongest (most likely) Server:   -99.6dbmW        - server = M202    
 
 --- mxx_file: view.0.3.mxx  
-Worst channel C/(I+N) for multiple-channel systems:  No value*        - server = M105    
+Worst channel C/(I+N) for multiple-channel systems:     6.7     dB - server = M202    
 
 --- mxx_file: view.0.4.mxx  
-Received power at best base from remote:  -115.7   dBmW - server = W101    
+Received power at best base from remote:  -103.5   dBmW - server = W102    
