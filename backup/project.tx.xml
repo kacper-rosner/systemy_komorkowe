@@ -908,7 +908,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W200" guid="898ea526-4b51-4368-bcce-3ad4eeb01dd2" latitude="44.43337731058106" longitude="-122.8849272355461" elevation="592.7106323242188" info_type="1" elevation_type="2">
+    <BaseStation name="W200" guid="898ea526-4b51-4368-bcce-3ad4eeb01dd2" latitude="44.43500875997538" longitude="-122.8849927756582" elevation="593.646728515625" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -920,7 +920,7 @@
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
       <BaseTx tx_id="W201" UserSectorID="" guid="41ef1d27-c150-4da1-a79d-c0ce63fc20d9" system="1" focus="true" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
-        <Color r="12" g="21" b="57"/>
+        <Color r="147" g="216" b="151"/>
        </most_likely_server_color>
        <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="35.0" study_point_spacing="0.1" approximate_range="50.0"/>
       </BaseTx>
@@ -967,7 +967,7 @@
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
       <BaseTx tx_id="W202" UserSectorID="" guid="f8897587-6f68-411e-87d5-42aee35f410e" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
-        <Color r="231" g="74" b="234"/>
+        <Color r="120" g="135" b="68"/>
        </most_likely_server_color>
        <StudySector start_azimuth="0.0" stop_azimuth="360.0" azimuth_increment="1.0" odd_azimuth="-1.0" study_radius="35.0" study_point_spacing="0.1" approximate_range="50.0"/>
       </BaseTx>

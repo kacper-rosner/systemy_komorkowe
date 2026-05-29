@@ -208,7 +208,7 @@
   <TreeNode NodeType="MapView" NodeText="3D terrain" state="96"/>
   <TreeNode NodeType="MapView" NodeText="W200_closeup" state="4192"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
-  <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
+  <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4192"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4192"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="0"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4192"/>
