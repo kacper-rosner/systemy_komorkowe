@@ -908,7 +908,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W200" guid="898ea526-4b51-4368-bcce-3ad4eeb01dd2" latitude="44.43500875997538" longitude="-122.8849927756582" elevation="593.646728515625" info_type="1" elevation_type="2">
+    <BaseStation name="W200" guid="898ea526-4b51-4368-bcce-3ad4eeb01dd2" latitude="44.46723845813823" longitude="-122.9021491904839" elevation="427.3163146972656" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
