@@ -2243,10 +2243,12 @@
    <TX_ID id="W201" active="true"/>
    <TX_ID id="W202" active="true"/>
   </TxGroup>
-  <TxGroup name="W10X" guid="19b947db-8000-446d-bda4-289c0a8354f3" description="All sites and sectors" receiver_locked="false" number="3">
+  <TxGroup name="W10X" guid="19b947db-8000-446d-bda4-289c0a8354f3" description="All sites and sectors" receiver_locked="false" number="5">
    <TX_ID id="M402" active="false"/>
    <TX_ID id="W101" active="true"/>
    <TX_ID id="W102" active="true"/>
+   <TX_ID id="W201" active="true"/>
+   <TX_ID id="W202" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">

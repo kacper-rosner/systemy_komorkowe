@@ -918,7 +918,7 @@
     </BaseStation>
     <Antennas no_of_antennas="2">
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="W201" UserSectorID="" guid="41ef1d27-c150-4da1-a79d-c0ce63fc20d9" system="1" focus="true" most_likely_server_symbol="SOLID">
+      <BaseTx tx_id="W201" UserSectorID="" guid="41ef1d27-c150-4da1-a79d-c0ce63fc20d9" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
         <Color r="147" g="216" b="151"/>
        </most_likely_server_color>
@@ -965,7 +965,7 @@
       </Actual_Neighbor_List>
      </Tx>
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="W202" UserSectorID="" guid="f8897587-6f68-411e-87d5-42aee35f410e" system="1" focus="false" most_likely_server_symbol="SOLID">
+      <BaseTx tx_id="W202" UserSectorID="" guid="f8897587-6f68-411e-87d5-42aee35f410e" system="1" focus="true" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
         <Color r="120" g="135" b="68"/>
        </most_likely_server_color>
