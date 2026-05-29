@@ -69,7 +69,30 @@
    <ColorMapEntry val="20.0" r="255" g="0" b="255" symbol="SOLID"/>
    <ColorMapEntry val="10.0" r="64" g="0" b="64" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="0"/>
+  <ColorMap size="22">
+   <ColorMapEntry val="1.144" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="1.0895" r="251" g="246" b="11" symbol="SOLID"/>
+   <ColorMapEntry val="1.035" r="247" g="237" b="22" symbol="SOLID"/>
+   <ColorMapEntry val="0.9806" r="243" g="228" b="34" symbol="SOLID"/>
+   <ColorMapEntry val="0.9261" r="239" g="219" b="45" symbol="SOLID"/>
+   <ColorMapEntry val="0.8716" r="236" g="210" b="56" symbol="SOLID"/>
+   <ColorMapEntry val="0.8171000000000001" r="232" g="201" b="67" symbol="SOLID"/>
+   <ColorMapEntry val="0.7627" r="228" g="192" b="79" symbol="SOLID"/>
+   <ColorMapEntry val="0.7082000000000001" r="224" g="183" b="90" symbol="SOLID"/>
+   <ColorMapEntry val="0.6537000000000001" r="221" g="174" b="101" symbol="SOLID"/>
+   <ColorMapEntry val="0.5992000000000001" r="217" g="165" b="112" symbol="SOLID"/>
+   <ColorMapEntry val="0.5448" r="213" g="156" b="124" symbol="SOLID"/>
+   <ColorMapEntry val="0.4903" r="209" g="147" b="135" symbol="SOLID"/>
+   <ColorMapEntry val="0.4358" r="206" g="138" b="146" symbol="SOLID"/>
+   <ColorMapEntry val="0.3813" r="202" g="129" b="157" symbol="SOLID"/>
+   <ColorMapEntry val="0.3269" r="198" g="120" b="169" symbol="SOLID"/>
+   <ColorMapEntry val="0.2724" r="194" g="111" b="180" symbol="SOLID"/>
+   <ColorMapEntry val="0.2179" r="191" g="102" b="191" symbol="SOLID"/>
+   <ColorMapEntry val="0.1634" r="187" g="93" b="202" symbol="SOLID"/>
+   <ColorMapEntry val="0.109" r="183" g="84" b="214" symbol="SOLID"/>
+   <ColorMapEntry val="0.0545" r="179" g="75" b="225" symbol="SOLID"/>
+   <ColorMapEntry val="0.0" r="176" g="67" b="236" symbol="SOLID"/>
+  </ColorMap>
   <ColorMap size="10">
    <ColorMapEntry val="100.0" r="255" g="255" b="0" symbol="SOLID"/>
    <ColorMapEntry val="90.0" r="255" g="0" b="0" symbol="SOLID"/>
@@ -152,7 +175,30 @@
    <ColorMapEntry val="0.06670000000000001" r="47" g="0" b="85" symbol="SOLID"/>
    <ColorMapEntry val="0.0" r="64" g="0" b="64" symbol="SOLID"/>
   </ColorMap>
-  <ColorMap size="0"/>
+  <ColorMap size="22">
+   <ColorMapEntry val="1.244" r="255" g="255" b="0" symbol="SOLID"/>
+   <ColorMapEntry val="1.2038" r="251" g="246" b="11" symbol="SOLID"/>
+   <ColorMapEntry val="1.1636" r="247" g="237" b="22" symbol="SOLID"/>
+   <ColorMapEntry val="1.1234" r="243" g="228" b="34" symbol="SOLID"/>
+   <ColorMapEntry val="1.0832" r="239" g="219" b="45" symbol="SOLID"/>
+   <ColorMapEntry val="1.043" r="236" g="210" b="56" symbol="SOLID"/>
+   <ColorMapEntry val="1.0029" r="232" g="201" b="67" symbol="SOLID"/>
+   <ColorMapEntry val="0.9627000000000001" r="228" g="192" b="79" symbol="SOLID"/>
+   <ColorMapEntry val="0.9225" r="224" g="183" b="90" symbol="SOLID"/>
+   <ColorMapEntry val="0.8823" r="221" g="174" b="101" symbol="SOLID"/>
+   <ColorMapEntry val="0.8421000000000001" r="217" g="165" b="112" symbol="SOLID"/>
+   <ColorMapEntry val="0.8019" r="213" g="156" b="124" symbol="SOLID"/>
+   <ColorMapEntry val="0.7617" r="209" g="147" b="135" symbol="SOLID"/>
+   <ColorMapEntry val="0.7215" r="206" g="138" b="146" symbol="SOLID"/>
+   <ColorMapEntry val="0.6813" r="202" g="129" b="157" symbol="SOLID"/>
+   <ColorMapEntry val="0.6411" r="198" g="120" b="169" symbol="SOLID"/>
+   <ColorMapEntry val="0.601" r="194" g="111" b="180" symbol="SOLID"/>
+   <ColorMapEntry val="0.5608" r="191" g="102" b="191" symbol="SOLID"/>
+   <ColorMapEntry val="0.5206000000000001" r="187" g="93" b="202" symbol="SOLID"/>
+   <ColorMapEntry val="0.4804" r="183" g="84" b="214" symbol="SOLID"/>
+   <ColorMapEntry val="0.4402" r="179" g="75" b="225" symbol="SOLID"/>
+   <ColorMapEntry val="0.4" r="176" g="67" b="236" symbol="SOLID"/>
+  </ColorMap>
   <ColorMap size="0"/>
  </ColorMapVector>
  <ATAInfoVector size="1">
@@ -200,24 +246,24 @@
   </DataGridOptions>
  </LinkDetailsOptions>
  <PROJECT_PANE_TREE size="19">
-  <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="96"/>
+  <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="98"/>
   <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="96"/>
   <TreeNode NodeType="Link" NodeText="Link Systems" state="0"/>
   <TreeNode NodeType="Views" NodeText="Map Views" state="96"/>
-  <TreeNode NodeType="MapView" NodeText="initial view" state="98"/>
+  <TreeNode NodeType="MapView" NodeText="initial view" state="96"/>
   <TreeNode NodeType="MapView" NodeText="3D terrain" state="96"/>
-  <TreeNode NodeType="MapView" NodeText="W200_closeup" state="96"/>
+  <TreeNode NodeType="MapView" NodeText="W200_closeup" state="4192"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
-  <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="96"/>
+  <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4192"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="0"/>
-  <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="96"/>
+  <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4192"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4096"/>
   <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="0"/>
-  <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="0"/>
+  <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
   <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
   <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="0"/>
-  <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="0"/>
+  <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="4096"/>
   <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="4096"/>
  </PROJECT_PANE_TREE>
 </CommonData>
