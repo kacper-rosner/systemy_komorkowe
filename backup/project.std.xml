@@ -2224,7 +2224,15 @@
  </MultipointStudyLayout>
  <NeighborListGeneration max_neighbors="4" include_2nd_servers="true" include_3rd_servers="true" exclude_co_channel_neighbors="true" group_identifier="master group" server_selection="PowerReceived" copy_predicted_to_actual="false" remote_unit_ID="0"/>
  <TxGroups size="2">
-  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="19">
+  <TxGroup name="Master group" guid="a07b661e-f7c1-4c14-ae37-116aeebd111e" description="All sites and sectors" receiver_locked="false" number="25">
+   <TX_ID id="ABAA0001" active="true"/>
+   <TX_ID id="ABAB0001" active="true"/>
+   <TX_ID id="ABAC0001" active="true"/>
+   <TX_ID id="ABAD0002" active="true"/>
+   <TX_ID id="ABAE0001" active="true"/>
+   <TX_ID id="ABAF0001" active="true"/>
+   <TX_ID id="ABAG0001" active="true"/>
+   <TX_ID id="ABAH0001" active="true"/>
    <TX_ID id="M101" active="true"/>
    <TX_ID id="M102" active="true"/>
    <TX_ID id="M103" active="true"/>
@@ -2242,17 +2250,13 @@
    <TX_ID id="W102" active="true"/>
    <TX_ID id="W201" active="true"/>
    <TX_ID id="W202" active="true"/>
-   <TX_ID id="W211" active="true"/>
-   <TX_ID id="W212" active="true"/>
   </TxGroup>
-  <TxGroup name="W10X" guid="19b947db-8000-446d-bda4-289c0a8354f3" description="All sites and sectors" receiver_locked="false" number="7">
+  <TxGroup name="W10X" guid="19b947db-8000-446d-bda4-289c0a8354f3" description="All sites and sectors" receiver_locked="false" number="5">
    <TX_ID id="M402" active="false"/>
    <TX_ID id="W101" active="true"/>
    <TX_ID id="W102" active="true"/>
    <TX_ID id="W201" active="true"/>
    <TX_ID id="W202" active="true"/>
-   <TX_ID id="W211" active="true"/>
-   <TX_ID id="W212" active="true"/>
   </TxGroup>
  </TxGroups>
  <LinkGroups size="1">
