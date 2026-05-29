@@ -1,41 +1,47 @@
 Point Query
 -----------
 
-Latitude:    44 27 22.68 North      44.456301
-Longitude:  122 52 54.68 West     -122.881856
+Latitude:    44 31 23.90 North      44.523306
+Longitude:  122 42 42.22 West     -122.711728
 
-Terrain elevation:   272.3 meters
+Terrain elevation:   181.2 meters
 Terrain database type index:  6
 
-Land use (clutter) type number:   9
+Land use (clutter) type number:  12
 
-Land use (clutter) category: Evergreen Forest                
-Clutter height:    15.0 meters
+Land use (clutter) category: Shrub/Scrub                     
+Clutter height:     5.0 meters
 
 Raw signal data for 'Worst channel C/(I+N) for multiple-channel systems'        
 
  Sector   Downlink Power  Uplink Power    Distance    Bearing     Transit time  Transit+TX_offset
 --------  --------------  ------------  ----------  ------------  ------------  -----------------
-W202       -122.4 dBmW    -123.6 dBmW      2.6 km     185.5 deg        8.4 uS        8.4 uS
-W201       -128.3 dBmW    -124.7 dBmW      2.6 km     185.5 deg        8.4 uS        8.4 uS
-W102       -131.6 dBmW    -130.1 dBmW     11.3 km     277.3 deg       37.1 uS       37.1 uS
-M203       -134.3 dBmW    -135.2 dBmW     13.3 km     351.9 deg       43.8 uS       43.8 uS
-W101       -149.3 dBmW    -150.9 dBmW     11.3 km     277.3 deg       37.1 uS       37.1 uS
-M103       -153.1 dBmW    -150.9 dBmW     24.3 km     334.0 deg       80.3 uS       80.3 uS
+ABAD0002   -110.9 dBmW    -107.7 dBmW      7.5 km      98.3 deg       24.7 uS       24.7 uS
+ABAC0001   -116.7 dBmW    -115.6 dBmW     17.0 km     234.0 deg       56.0 uS       56.0 uS
+ABAB0001   -116.8 dBmW    -115.8 dBmW     22.5 km     246.1 deg       74.3 uS       74.3 uS
+ABAA0001   -119.7 dBmW    -118.7 dBmW     18.3 km     243.6 deg       60.5 uS       60.5 uS
+W202       -122.6 dBmW    -117.1 dBmW     16.3 km     247.6 deg       53.9 uS       53.9 uS
+W102       -124.9 dBmW    -123.7 dBmW     25.4 km     256.4 deg       83.7 uS       83.7 uS
 Shadowed: No 
 Minimum RMS delay spread:             0.0 nSec
-Minimum pathloss:                   148.3 dB
-Maximum field strength at remote:    17.5 dBuV/m
-Maximum field strength at base:      18.5 dBuV/m
-Power flux density:                -126.7 dBW/m2
+Minimum pathloss:                   141.6 dB
+Maximum field strength at remote:    29.0 dBuV/m
+Maximum field strength at base:      25.3 dBuV/m
+Power flux density:                -114.3 dBW/m2
 
-Raw signal study grid array coordinates (x,y):    23  -14
+Raw signal study grid array coordinates (x,y):   325 -277
 
---- mxx_file: view.2.1.mxx  
-Received power at best base from remote:  No value*        - server = W202    
+--- mxx_file: view.0.1.mxx  
+Received power at best base from remote:  No value*        - server = ABAD0002
 
---- mxx_file: view.2.2.mxx  
-Strongest (most likely) Server:  No value*        - server = W202    
+--- mxx_file: view.0.2.mxx  
+Strongest (most likely) Server:  No value*        - server = ABAD0002
 
---- mxx_file: view.2.3.mxx  
-Worst channel C/(I+N) for multiple-channel systems:  No value*        - server = M203    
+--- mxx_file: view.0.3.mxx  
+Worst channel C/(I+N) for multiple-channel systems:  No value*        - server = ABAD0002
+
+--- mxx_file: view.0.4.mxx  
+Received power at best base from remote:  -115.7   dBmW - server = W212    
+
+--- mxx_file: view.0.5.mxx  
+Received power at best base from remote:  No value*        - server = W203    
