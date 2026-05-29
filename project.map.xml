@@ -75,7 +75,7 @@
      </PenDesc>
     </BorderPenDesc>
    </MapPref>
-   <AreaStudies last_selected_index="4" ui_track_index="-1" size="6">
+   <AreaStudies last_selected_index="3" ui_track_index="-1" size="6">
     <AreaStudy group_identifier="Master group" second_group_identifier="Master group" group_id2="0" area_study_type="12" plot_type="flat grid" calc_method="radial line" noise_interference_type="noise and interference" calculate_study="true" use_uplink_independent_calc="false" notes="" receive_unit_id="0" study_display_type="composite grid" FCC_show_contour_labels="true" FCC_show_contour_txnames="true" FCC_contour_line_width="0.5" signal_contour_line_width="0.5" radial_line_width="0.5" effective_display_height="0.0" effective_display_height_use_mobile_height="false" grid_edge_display="1.0" grid_lines_signal_only="false" signal_level_display_threshold="-103.0" show_remote_on_legend_="true" control_mls_using_approx_range="false" control_using_sector_study_radius="false" include_interfering_remote="true" include_base_to_base_interference="false" maximum_number_interfering_sectors="6" link_reliability_name="Reliability Method 1" use_MIMO_adjustments="true" fresnel_zone_clearance="0.6" use_filter_polygon="false" filter_file_name="" use_channel_color_mls="false">
      <FCC_contour_label_font>
       <Font font_name="Arial" point_size="8" orientation_angle="0.0" style_flags_="0">

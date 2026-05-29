@@ -3,7 +3,7 @@
  <Transmitters count="19">
   <TxSite>
    <TxStudy>
-    <BaseStation name="ABAA" guid="313a1f24-b35e-4bcd-b200-928ba906dbb5" latitude="44.44982630489003" longitude="-122.9187075605701" elevation="401.4827575683594" info_type="1" elevation_type="2">
+    <BaseStation name="ABAA" guid="313a1f24-b35e-4bcd-b200-928ba906dbb5" latitude="44.449825" longitude="-122.9187083333333" elevation="401.4827575683594" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -69,7 +69,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="ABAB" guid="aa593687-db93-4056-919a-c282cc643bc7" latitude="44.44112055558636" longitude="-122.9710137921138" elevation="488.21630859375" info_type="1" elevation_type="2">
+    <BaseStation name="ABAB" guid="aa593687-db93-4056-919a-c282cc643bc7" latitude="44.44111944444444" longitude="-122.9710138888889" elevation="488.21630859375" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -135,7 +135,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="ABAC" guid="b343380e-c614-4ab8-9628-3aac82d3cc97" latitude="44.43349173360865" longitude="-122.8848570560693" elevation="592.2115478515625" info_type="1" elevation_type="2">
+    <BaseStation name="ABAC" guid="b343380e-c614-4ab8-9628-3aac82d3cc97" latitude="44.43349166666666" longitude="-122.8848583333333" elevation="592.2115478515625" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -201,7 +201,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="ABAE" guid="27a892d9-9298-4a13-a767-7cada8233b75" latitude="44.61012113139332" longitude="-122.717016432172" elevation="395.9606323242188" info_type="1" elevation_type="2">
+    <BaseStation name="ABAE" guid="27a892d9-9298-4a13-a767-7cada8233b75" latitude="44.61012222222222" longitude="-122.7170166666667" elevation="395.9606323242188" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -359,7 +359,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M101" guid="0d8c5d5e-00da-4940-b40a-28d0c1c7bf82" latitude="44.65225411320709" longitude="-123.1251656228482" elevation="126.7363433837891" info_type="1" elevation_type="2">
+    <BaseStation name="M101" guid="0d8c5d5e-00da-4940-b40a-28d0c1c7bf82" latitude="44.65225277777778" longitude="-123.1251666666667" elevation="126.7363433837891" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -422,7 +422,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M102" guid="0110fee9-81a0-4fc4-aba6-dc5dff95746c" latitude="44.6569080010576" longitude="-123.0744148816796" elevation="56.89231872558594" info_type="1" elevation_type="2">
+    <BaseStation name="M102" guid="0110fee9-81a0-4fc4-aba6-dc5dff95746c" latitude="44.65690833333333" longitude="-123.0744138888889" elevation="56.89231872558594" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -539,7 +539,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M103" guid="8225de30-65e6-4878-a13b-e14343adc7d5" latitude="44.65283450577081" longitude="-123.0166808118347" elevation="190.6642150878906" info_type="1" elevation_type="2">
+    <BaseStation name="M103" guid="8225de30-65e6-4878-a13b-e14343adc7d5" latitude="44.65283333333333" longitude="-123.0166805555556" elevation="190.6642150878906" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -653,7 +653,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M104" guid="02857a24-abdc-4e32-a097-f0fca0de5fe6" latitude="44.62554631581155" longitude="-123.0359460931448" elevation="71.31272888183594" info_type="1" elevation_type="2">
+    <BaseStation name="M104" guid="02857a24-abdc-4e32-a097-f0fca0de5fe6" latitude="44.62554722222222" longitude="-123.0359472222222" elevation="71.31272888183594" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -719,7 +719,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M105" guid="e8042af7-2297-41c4-9efa-b5c71a6dfcbf" latitude="44.59347455851199" longitude="-123.0718054767943" elevation="70.58450317382813" info_type="1" elevation_type="2">
+    <BaseStation name="M105" guid="e8042af7-2297-41c4-9efa-b5c71a6dfcbf" latitude="44.59347500000001" longitude="-123.0718055555556" elevation="70.58450317382813" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -784,7 +784,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M201" guid="96d98597-d35f-4ec7-8e6b-50702b63bdb3" latitude="44.50934506995028" longitude="-122.9561176612638" elevation="268.7792663574219" info_type="1" elevation_type="2">
+    <BaseStation name="M201" guid="96d98597-d35f-4ec7-8e6b-50702b63bdb3" latitude="44.50934444444444" longitude="-122.9561166666667" elevation="268.7792663574219" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -850,7 +850,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M202" guid="df73e369-02e9-4e95-8c00-442fa96e41d0" latitude="44.55353241563736" longitude="-122.9764177431535" elevation="91.46624755859375" info_type="1" elevation_type="2">
+    <BaseStation name="M202" guid="df73e369-02e9-4e95-8c00-442fa96e41d0" latitude="44.55353333333333" longitude="-122.9764166666667" elevation="91.46624755859375" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -913,7 +913,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M203" guid="cc6d7468-4065-4432-8b9b-95c0dec3c15a" latitude="44.58171433248801" longitude="-122.9141544226651" elevation="119.8700714111328" info_type="1" elevation_type="2">
+    <BaseStation name="M203" guid="cc6d7468-4065-4432-8b9b-95c0dec3c15a" latitude="44.58171388888889" longitude="-122.9141555555556" elevation="119.8700714111328" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1026,7 +1026,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M302" guid="ab72dcda-3459-4bde-a5da-508d79f7a407" latitude="44.85463810876397" longitude="-123.2276333114123" elevation="61.60947799682617" info_type="1" elevation_type="2">
+    <BaseStation name="M302" guid="ab72dcda-3459-4bde-a5da-508d79f7a407" latitude="44.85463888888889" longitude="-123.2276333333333" elevation="61.60947799682617" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1139,7 +1139,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="M4" guid="4aaa8287-7e38-460b-88ef-99f5fa3540de" latitude="44.82372188425391" longitude="-122.8834967100088" elevation="108.9363784790039" info_type="1" elevation_type="2">
+    <BaseStation name="M4" guid="4aaa8287-7e38-460b-88ef-99f5fa3540de" latitude="44.82372222222222" longitude="-122.8834972222222" elevation="108.9363784790039" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1302,7 +1302,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W100" guid="805aae78-2f37-4bd9-8f05-ceb180474a31" latitude="44.46913248260839" longitude="-123.0225720204872" elevation="250.9608612060547" info_type="1" elevation_type="2">
+    <BaseStation name="W100" guid="805aae78-2f37-4bd9-8f05-ceb180474a31" latitude="44.46913333333333" longitude="-123.0225722222222" elevation="250.9608612060547" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1414,7 +1414,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W200" guid="898ea526-4b51-4368-bcce-3ad4eeb01dd2" latitude="44.46723845813823" longitude="-122.9021491904839" elevation="427.3163146972656" info_type="1" elevation_type="2">
+    <BaseStation name="W200" guid="898ea526-4b51-4368-bcce-3ad4eeb01dd2" latitude="44.46723888888889" longitude="-122.90215" elevation="427.3163146972656" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1523,7 +1523,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W801" guid="ab1c7c9c-3d56-4794-985e-13972c7f9ec5" latitude="44.82583901382908" longitude="-122.6471568458649" elevation="571.9619140625" info_type="1" elevation_type="2">
+    <BaseStation name="W801" guid="ab1c7c9c-3d56-4794-985e-13972c7f9ec5" latitude="44.82583888888889" longitude="-122.6471555555556" elevation="571.9619140625" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1585,7 +1585,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W802" guid="4b5a48ee-25df-495e-8864-20eff53582b5" latitude="44.70585092707526" longitude="-122.6515157521328" elevation="430.7693176269531" info_type="1" elevation_type="2">
+    <BaseStation name="W802" guid="4b5a48ee-25df-495e-8864-20eff53582b5" latitude="44.70585000000001" longitude="-122.6515166666667" elevation="430.7693176269531" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -1647,7 +1647,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W901" guid="cc7a3e2f-a3e0-4dd7-b30e-a4e968c82d4a" latitude="44.5057832620603" longitude="-122.68830522171" elevation="480.2472534179688" info_type="1" elevation_type="2">
+    <BaseStation name="W901" guid="cc7a3e2f-a3e0-4dd7-b30e-a4e968c82d4a" latitude="44.50578333333333" longitude="-122.6883055555556" elevation="480.2472534179688" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
