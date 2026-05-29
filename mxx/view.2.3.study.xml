@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<StudyGridParameters version="1.0.0">
+   <AreaStudy type="Worst channel C/(I+N) for multiple-channel systems" dBm_threshold="-103.0"/>
+   <RemoteUnit height="    1.5" height_reference="AGL" units="meters"/>
+   <GeoCenter latitude="  44.4624811" longitude="-122.8966444"/>
+   <Dimension width="  14.000" height="   8.400" grid_spacing="   0.050" units="km"/>
+</StudyGridParameters>               
