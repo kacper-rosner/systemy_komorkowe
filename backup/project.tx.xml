@@ -76,7 +76,7 @@
     </BaseStation>
     <Antennas no_of_antennas="1">
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="M102" UserSectorID="" guid="55b6fedf-b8c7-48c3-a540-693f5c9bcfad" system="1" focus="true" most_likely_server_symbol="SOLID">
+      <BaseTx tx_id="M102" UserSectorID="" guid="55b6fedf-b8c7-48c3-a540-693f5c9bcfad" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
         <Color r="46" g="243" b="58"/>
        </most_likely_server_color>
@@ -150,7 +150,7 @@
       </BaseTx>
       <TransmitterAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="20.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="2.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="2.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="240.0" beam_tilt="-8.0" beam_tilt_az="240.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="20.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="2.0" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="1.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="240.0" beam_tilt="-8.5" beam_tilt_az="240.0" rotate_antenna="false"/>
        </TxAntenna>
       </TransmitterAntenna>
       <ReceiverAntenna>
@@ -796,7 +796,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W100" guid="805aae78-2f37-4bd9-8f05-ceb180474a31" latitude="44.46858926055011" longitude="-123.0234767240271" elevation="241.1412963867188" info_type="1" elevation_type="2">
+    <BaseStation name="W100" guid="805aae78-2f37-4bd9-8f05-ceb180474a31" latitude="44.46913248260839" longitude="-123.0225720204872" elevation="250.9608612060547" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -814,7 +814,7 @@
       </BaseTx>
       <TransmitterAntenna>
        <TxAntenna coax_cable_loss="1.0" coupling_loss="0.0" coupling_loss_spec_distance="0.0" coax_routing_name="">
-        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H120.PAT" antenna_height="35.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.5" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="8.0" radome_loss="0.0" max_transmit_power_per_channel="4.0" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="270.0" beam_tilt="-6.0" beam_tilt_az="270.0" rotate_antenna="false"/>
+        <Antenna polarization="vertical" antenna_pattern="Use file" use_tx_rx_type_db="false" antenna_pattern_filename="&lt;INSTALL_PATH&gt;\LIBRARY DATA\PAT\DB872H83.PAT" antenna_height="40.0" trans_line_type="custom" trans_line_length="0.0" trans_line_loss="3.5" multiplexer_loss="0.0" misc_system_losses="0.0" antenna_gain="9.4" radome_loss="0.0" max_transmit_power_per_channel="3.5" min_transmit_power_per_channel="0.0" tx_rx_type="Cellular (850MHz) 20 watt" power_spectral_density_file_code="0" cross_polarization_rejection="15.0" antenna_type="" use_antenna_type="false" az_orient="270.0" beam_tilt="-7.0" beam_tilt_az="270.0" rotate_antenna="false"/>
        </TxAntenna>
       </TransmitterAntenna>
       <ReceiverAntenna>
@@ -856,7 +856,7 @@
       </Actual_Neighbor_List>
      </Tx>
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="W102" UserSectorID="" guid="cb3f3ab4-d3fb-46a5-97e9-411bb02df094" system="1" focus="false" most_likely_server_symbol="SOLID">
+      <BaseTx tx_id="W102" UserSectorID="" guid="cb3f3ab4-d3fb-46a5-97e9-411bb02df094" system="1" focus="true" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
         <Color r="15" g="53" b="42"/>
        </most_likely_server_color>

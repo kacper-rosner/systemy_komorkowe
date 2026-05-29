@@ -796,7 +796,7 @@
   </TxSite>
   <TxSite>
    <TxStudy>
-    <BaseStation name="W100" guid="805aae78-2f37-4bd9-8f05-ceb180474a31" latitude="44.46858926055011" longitude="-123.0234767240271" elevation="241.1412963867188" info_type="1" elevation_type="2">
+    <BaseStation name="W100" guid="805aae78-2f37-4bd9-8f05-ceb180474a31" latitude="44.46913248260839" longitude="-123.0225720204872" elevation="250.9608612060547" info_type="1" elevation_type="2">
      <Other address_line1="" address_line2="" address_line3="" telephone="" owner="" tower_number="">
       <note_file size="0"/>
       <photo_file size="0"/>
@@ -806,7 +806,7 @@
     </BaseStation>
     <Antennas no_of_antennas="2">
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="W101" UserSectorID="" guid="8c045de2-2866-48a8-803a-ff44bdbd1ea2" system="1" focus="true" most_likely_server_symbol="SOLID">
+      <BaseTx tx_id="W101" UserSectorID="" guid="8c045de2-2866-48a8-803a-ff44bdbd1ea2" system="1" focus="false" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
         <Color r="228" g="106" b="249"/>
        </most_likely_server_color>
@@ -856,7 +856,7 @@
       </Actual_Neighbor_List>
      </Tx>
      <Tx frequency="960.0" adaptive_antenna="0" simulcast_delay_offset="0.0" override_most_likely_server_color="false" propagation_group="1" mimo_type_and_size="None" use_amod_table="false" amod_table_name="Global Table" has_repeater="false" repeater_owner="" rpt_interfere="0" rpt_gain="0.0" rpt_type="1">
-      <BaseTx tx_id="W102" UserSectorID="" guid="cb3f3ab4-d3fb-46a5-97e9-411bb02df094" system="1" focus="false" most_likely_server_symbol="SOLID">
+      <BaseTx tx_id="W102" UserSectorID="" guid="cb3f3ab4-d3fb-46a5-97e9-411bb02df094" system="1" focus="true" most_likely_server_symbol="SOLID">
        <most_likely_server_color>
         <Color r="15" g="53" b="42"/>
        </most_likely_server_color>
