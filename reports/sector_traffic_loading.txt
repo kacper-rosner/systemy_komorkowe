@@ -12,8 +12,6 @@ Percent of total traffic carried by group: 100.00 %
           Circuit Traffic  Circuit Traffic   Number of    Channel  Current Blocking Packet Traffic
 Sector ID   (mErlangs)    Required Channels Channels Set Shortfall Probability (%)  (average mbps)
 --------- --------------- ----------------- ------------ --------- ---------------- --------------
-ABAA0001     19427.54             32             24           8         23.86         19.4275
-ABAA0002      2681.97              8             16          -8          0.00          2.6820
 M101          6392.87             14             24         -10          0.00          6.3929
 M102         33146.24             49             48           1          0.00         33.1462
 M103         17672.60             29             32          -3          0.15         17.6726
@@ -27,3 +25,5 @@ M302         10064.77             19             24          -5          0.01   
 M401          9857.80             19             24          -5          0.01          9.8578
 M402          7955.81             16             16           0          0.86          7.9558
 M403         28997.40             43             48          -5          0.00         28.9974
+W101         19427.54             32             32           0          0.60         19.4275
+W102          2681.97              8             16          -8          0.00          2.6820
