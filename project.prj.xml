@@ -211,32 +211,27 @@
    <RowColors num_colors="0"/>
   </DataGridOptions>
  </LinkDetailsOptions>
- <PROJECT_PANE_TREE size="29">
+ <PROJECT_PANE_TREE size="24">
   <TreeNode NodeType="RFSystems" NodeText="RF Systems" state="96"/>
-  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="98"/>
+  <TreeNode NodeType="Site" NodeText="Transmitter/Base/Hub/Router Sites" state="96"/>
   <TreeNode NodeType="Link" NodeText="Link Systems" state="4096"/>
   <TreeNode NodeType="Views" NodeText="Map Views" state="4192"/>
   <TreeNode NodeType="MapView" NodeText="initial view" state="4192"/>
   <TreeNode NodeType="MapView" NodeText="3D terrain" state="4192"/>
   <TreeNode NodeType="MapView" NodeText="W200_closeup" state="4192"/>
   <TreeNode NodeType="MapView" NodeText="M202_Closeup" state="4192"/>
-  <TreeNode NodeType="MapView" NodeText="M102" state="4096"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4192"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4192"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4192"/>
   <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4192"/>
-  <TreeNode NodeType="MapViewLayer" NodeText="Map Layers" state="4096"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4096"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4192"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4096"/>
   <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4192"/>
-  <TreeNode NodeType="MapViewAreaStudy" NodeText="Area Studies" state="4096"/>
   <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
   <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
   <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
   <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
-  <TreeNode NodeType="MapViewRteAreaStudy" NodeText="Route Studies" state="4096"/>
-  <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="4096"/>
   <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="4096"/>
   <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="4096"/>
   <TreeNode NodeType="MapViewMptStudy" NodeText="Multipoint Studies" state="4096"/>
